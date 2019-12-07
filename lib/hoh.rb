@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-Hash = {
+hash = {
   :label => "Kingdom",
   :sub_category => {
     :label => "Phylum",
