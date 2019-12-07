@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-Bio_life = {
+Hash = {
   :label => "Kingdom",
   :sub_category => {
     :label => "Phylum",
